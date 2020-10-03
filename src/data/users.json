@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "userName": "Observatorio",
+        "userPass": "admin",
+        "userMail": "test@gmail.com",
+        "userRol": "Observatorio_Admin"
+    },
+    {
+        "id": 1,
+        "userName": "user1",
+        "userPass": "user1",
+        "userMail": "test2@gmail.com",
+        "userRol": "Observatorio",
+        "lat":-31.166,
+        "long":-65.966
+    }
+]
